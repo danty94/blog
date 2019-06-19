@@ -6,7 +6,7 @@ email: 114913579@qq.com
 description: "除了诱惑，我什么都能抵挡！"
 keyword: "Danty, I can resist anything but temptation"
 url: "danty94.github.io"          # your host, for absolute URL
-baseurl: "/blog"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "" # you code repository
 
 # Sidebar settings
